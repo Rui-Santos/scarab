@@ -1,16 +1,16 @@
 {
-  "name": "mapzen-scarab",
+  "name": "tpp-scarab",
   "version": "3.1.0",
-  "description": "mapzen maps & demo branding, social sharing, and tracking",
-  "homepage": "https://github.com/mapzen/scarab",
+  "description": "tpp maps & demo branding, social sharing, and tracking",
+  "homepage": "https://github.com/Rui-Santos/tpp-scarab",
   "private": true,
-  "main": "src/scarab.js",
+  "main": "src/tpp-scarab.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mapzen/scarab.git"
+    "url": "https://github.com/Rui-Santos/tpp-scarab.git"
   },
   "bugs": {
-    "url": "https://github.com/mapzen/scarab/issues"
+    "url": "https://github.com/Rui-Santos/tpp-scarab/issues"
   },
   "author": "",
   "license": "MIT",
